@@ -1,6 +1,7 @@
 ### Olá eu Sou o Fabiano Lopes
-- 🔭 Hoje Estudo e trabalho com Front-End, UX/UI Design
-- 🌱 Estudando -  Análise e Desenvolvimento de Sitemas 
+- 🔭 Hoje Estudo e trabalho com Front-End, UX/UI Design, Design Gráfico
+- 🌱 Estudando -  Html - Css - JavaScript - C#
+- 🎓 Cursando - Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
