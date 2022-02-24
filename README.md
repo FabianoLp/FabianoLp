@@ -1,5 +1,4 @@
 ### Olá eu Sou o Fabiano Lopes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabianoLp&repo=github-readme-stats )](https://github.com/FabianoLp/github-readme-stats)
 - 🔭 Hoje Estudo e trabalho com Front-End, UX/UI Design
 - 🌱 Estudando -  Análise e Desenvolvimento de Sitemas 
 - 😄 Pronouns: ele/dele
@@ -29,6 +28,7 @@
  <a href="https://discord.com/channels/fabianols7329#3314" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fabianomontaro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabianolopessilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
