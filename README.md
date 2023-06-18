@@ -1,6 +1,6 @@
 ### Olá eu Sou o Fabiano Lopes
-- 🔭 Hoje Estudo e trabalho com Front-End
-- 🌱 Estudando -  Html - Css - JavaScript -
+- 🔭 Desenvolvedor Front-End
+- 🌱 Estudando 
 - 🎓 Cursando - Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: ele/dele
 
