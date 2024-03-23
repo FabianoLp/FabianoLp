@@ -1,8 +1,8 @@
 ### Olá eu Sou o Fabiano Lopes
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estudando 
-- 🎓 Cursando - Análise e Desenvolvimento de Sistemas 
-- 😄 Pronouns: ele/dele
+- 🔭 Desenvolvedor Python
+- 🌱 Banco de Dados e Big Data 
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas 
+- 😄 Pós Graduando em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
 
 <div align="center">
   <a href="https://github.com/FabianoLp">
