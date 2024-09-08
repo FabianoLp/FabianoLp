@@ -1,8 +1,8 @@
 ### Olá eu Sou o Fabiano Lopes
-- 🔭 Desenvolvedor Python
-- 🌱 Banco de Dados e Big Data 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas 
-- 😄 Pós Graduando em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
+- 🔭 Desenvolvedor Front e Back-End
+- 🌱 SQL/NoSQL - PHP - Python 
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá 
+- 😄 Pós Graduaão em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
 
 <div align="center">
   <a href="https://github.com/FabianoLp">
