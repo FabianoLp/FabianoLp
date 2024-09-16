@@ -1,5 +1,5 @@
 ### Olá eu Sou o Fabiano Lopes
-- 🔭 Desenvolvedor Front e Back-End
+- 🔭 Um Entusiasta iniciante Plus! kk 
 - 🌱 SQL/NoSQL - PHP - Python 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá 
 - 😄 Pós Graduaão em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
