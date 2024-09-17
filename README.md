@@ -2,7 +2,7 @@
 - 🔭 Um Entusiasta iniciante Plus! 
 - 🌱 SQL/NoSQL - PHP - Python 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá 
-- 😄 Pós Graduaão em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
+- 😄 Pós Graduação em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
 
 <div align="center">
   <a href="https://github.com/FabianoLp">
