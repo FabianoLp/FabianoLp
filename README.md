@@ -1,6 +1,6 @@
 ### Olá eu Sou o Fabiano Lopes
 - 🔭 Um Entusiasta iniciante Plus! 
-- 🌱 SQL/NoSQL - PHP - Python 
+- 🌱 SQL/NoSQL - PHP - Python e Front: HTML, CSS, JavaScript
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá 
 - 😄 Pós Graduação em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
 
