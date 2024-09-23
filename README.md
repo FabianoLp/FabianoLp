@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Um Dev quase Junior<br>🌱 SQL/NoSQL - PHP - Python e Front: HTML, CSS, JavaScript<br>🎓 Formado em Análise e Desenvolvimento de Sistemas -  Estácio <br>😄 Pós Graduado em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
+🔭 Um Dev quase Junior<br>🛠️ SQL/NoSQL - PHP - Python, HTML, CSS, JavaScript<br>🎓 Formado em Análise e Desenvolvimento de Sistemas -  Estácio <br> 🧑‍💻Pós Graduado em Administração de Banco de Dados e Ciência de Dado e Big Data Analytics
 
 
 ## 🌐 Socials:
