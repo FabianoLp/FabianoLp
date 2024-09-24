@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Estudante de Programação 🖥️. <br><br> focado em desenvolvedor e criar soluçãoes, me especializando na criação de sites, landing pages, sites de comércio eletrônico, blogs e muito mais.  <strong>HTML, CSS, JavaScript,PHP,Python</strong>, sou <strong>apaixonado por criar experiências centradas no usuário</strong> com as tecnologias para soluções de alta qualidade.</p>&nbsp;
+Dev Front e Back End 🖥️. <br><br> focado em desenvolvedor e criar soluçãoes, me especializando na criação de aplicações ,sites, landing pages, sites de comércio eletrônico, blogs e muito mais.  <strong>utilizando HTML, CSS, JavaScript,PHP,Python, SQL </strong>, sou <strong>apaixonado por criar experiências centradas no usuário</strong> com as tecnologias para soluções de alta qualidade.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FabianoLp&theme=dracula&mode=weekly" />
