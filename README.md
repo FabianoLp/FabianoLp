@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://[github.dev/FabianoLp/FabianoLp/blob/main/dev_fab.png](https://github.com/FabianoLp/FabianoLp/blob/main/dev_fab.png)"/>
+<img align="center" width=100% src="https://github.com/FabianoLp/FabianoLp/blob/main/dev_fab.png"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
