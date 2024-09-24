@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Dev Front e Back End Jr🖥️. <br><br> Focado em desenvolvedor e criar soluçãoes, me especializando na criação de aplicações ,sites, landing pages, sites de comércio eletrônico, blogs e muito mais.  <strong> Utilizando HTML, CSS, JavaScript,PHP,Python, SQL </strong>, sou <strong>apaixonado por criar experiências centradas no usuário</strong> com as tecnologias para soluções de alta qualidade.</p>&nbsp;
+Dev Front e Back End Jr🖥️. <br><br> Focado em desenvolvedor e criar soluçãoes, me especializando na criação de aplicações ,sites, landing pages, sites de comércio eletrônico, blogs e muito mais.  <strong> Utilizando HTML, CSS, JavaScript, PHP, Python e SQL </strong>, sou <strong> apaixonado por criar experiências centradas no usuário</strong> com as tecnologias para soluções de alta qualidade.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FabianoLp&theme=dracula&mode=weekly" />
