@@ -53,7 +53,7 @@ Dev Front e Back End Jr🖥️. <br><br> Focado em desenvolvedor e criar soluç�
 <a href="https://www.linkedin.com/in/fabianolopessilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
 
-![snake gif](https://github.com/FabianoLp/Gerenciador-de-Estoque-/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/FabianoLp/FabianoLp/blob/output/github-contribution-grid-snake.svg)
 </div>
 &nbsp;
 &nbsp;
