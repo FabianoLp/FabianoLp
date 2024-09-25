@@ -5,8 +5,10 @@
 Dev Front e Back End Jr🖥️. <br><br> Focado em desenvolvedor e criar soluçãoes, me especializando na criação de aplicações ,sites, landing pages, sites de comércio eletrônico, blogs e muito mais.  <strong> Utilizando HTML, CSS, JavaScript, PHP, Python e SQL </strong>, sou <strong> apaixonado por criar experiências centradas no usuário</strong> com as tecnologias para soluções de alta qualidade.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FabianoLp&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoLp&show_icons=true&theme=dracula&layout=compact" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FabianoLp&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FabianoLp&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoLp&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
  
 &nbsp;
